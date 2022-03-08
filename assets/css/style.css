@@ -1,0 +1,46 @@
+nav ul li a{
+    color: white;
+}
+.main{
+    
+    border-radius: 10px;
+    
+    
+}
+.nav{
+    background-color: crimson;
+    width: 100%;
+    border-radius: 20px;
+    color: white;
+}
+
+.sidebar{
+    
+    
+    border-radius: 10px;
+    margin-right: 0px;
+    background-color:  white;
+    border: solid gray 1px; 
+}
+.main-sidebar{
+    list-style-type:none;
+}
+.sidebar .main-sidebar li .btn:hover{
+    background-color: lightblue;
+    width: 105%;
+    text-align: center;
+    margin-left: -20px;
+    font-weight: bold;
+    color: green;
+}
+.main-content{
+    background-color: whitesmoke;
+}
+
+footer{
+    color: white;
+    background-color: red;
+    height: 80px;
+    margin-bottom: 10px;
+
+}

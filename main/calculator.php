@@ -29,7 +29,7 @@ if(isset($_POST['sub'])){
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/popper.min.js"></script>
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../assets/css/style1.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
     <base href="../inc">
 </head>
 <body>

@@ -8,15 +8,14 @@ nav ul li a{
     
 }
 .nav{
-    background-color: crimson;
+    background-color:white;
     width: 100%;
-    border-radius: 20px;
+    border-radius: 5px;
     color: white;
 }
 
 .sidebar{
-    
-    
+    margin-top: 1px;
     border-radius: 10px;
     margin-right: 0px;
     background-color:  white;
@@ -31,11 +30,21 @@ nav ul li a{
     text-align: center;
     margin-left: -20px;
     font-weight: bold;
-    color: green;
+    color: blue;
 }
 .main-content{
     background-color: whitesmoke;
 }
+.sidebar ul li #dashboard{
+ margin-top: 20px;
+ width: 140px;
+ margin-left: 0%;
+ margin-right: 10px;
+ font-weight: bold;
+ 
+}
+
+
 
 footer{
     color: white;

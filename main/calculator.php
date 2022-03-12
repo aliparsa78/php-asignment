@@ -29,11 +29,12 @@ if(isset($_POST['sub'])){
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/popper.min.js"></script>
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style1.css">
     <base href="../inc">
 </head>
 <body>
     <!-- Navbar go here -->
+    <nav>
     <ul class="nav">
         <li class="nav-item">
             <a class="nav-link" href="main/index.php">Home</a>
@@ -42,6 +43,7 @@ if(isset($_POST['sub'])){
             <a class="nav-link" href="main/calculator.php">Calculator</a>
         </li> 
     </ul>
+    </nav>
 
     <!-- Main Content -->
     <div class="main">

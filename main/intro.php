@@ -17,9 +17,9 @@
         <hr>
         <div class="card shadow">
           <div class="card-body">
-             <h4 class="text-info ml-3 mr-3">I would be happy to intoduce my selfe</h4>
+             <h4 class="text-info ml-3 mr-3">I would be happy to introduce my selfe</h4>
              <p class="ml-5">
-               <h5>Hello!</h5> I am PHP, I am general-pupose scipting language geared towards web development. I was conceived sometime in the fall of 1994 by 
+               <h5>Hello!</h5> I am PHP, I am general-pupose scripting language geared towards web development. I was conceived sometime in the fall of 1994 by 
                <i class="font-weight-bold">Rasmus Lerdorf</i> early non-released version of me were used on his home page 
                to keep track of who was looking at his online resume. The first version of me used 
                by others was available close the 1995 and was known me as <i class="font-weight-bold">Personal Home Page Tools</i>.

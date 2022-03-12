@@ -8,17 +8,17 @@
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/popper.min.js"></script>
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style1.css">
 </head>
 <body>
-<div class="sidebar mt-2" >
+<div class="sidebar" syle="main-heigh:500px;">
     <ul class="main-sidebar" >
-        <div class="dashboard mt-3">
             <li class="active">
-            <a href="index.php" class="btn btn-danger p-1"  style="width:100%; font-weight:bold;">
-            Dashboard</a>
+                <a href="index.php" class="dashboard btn btn-danger p-1" id="dashboard">
+                Dashboard
+                </a>
             </li>
-        </div>
+        
         <hr>
         <li>
             <a href="intro.php" class="btn">PHP intro</a>
@@ -89,6 +89,24 @@
         </li>
         <li>
             <a href="array.php" class="btn">array</a>
+        </li>
+        <li>
+        
+        <button type="button" class="btn dropdown-toggle" data-toggle="dropdown">
+            Files
+        </button>
+            <div class="dropdown-menu">
+                <a class="dropdown-item" href="open-read.php">File Open/Read</a>
+                <a class="dropdown-item" href="create-write.php">File Create/write</a>
+                <a class="dropdown-item" href="upload.php">File Upload</a>
+                
+            </div>
+        </li>
+        <li>
+            <a href="server.php" class="btn">Server</a>
+        </li>
+        <li>
+            <a href="env.php" class="btn">env</a>
         </li>
         
     </ul>
